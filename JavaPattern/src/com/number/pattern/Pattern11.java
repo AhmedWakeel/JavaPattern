@@ -7,7 +7,7 @@ public class Pattern11 {
 
 	public static void main(String[] args)
 	{
-		
+//		/igfgfgf/ 
 		
 //		HashSet<String>  obj1= new HashSet<String>();
 		LinkedHashSet<String> obj1 = new LinkedHashSet<>();
